@@ -27,9 +27,9 @@
 
 ## Скриншоты
 
-_Добавьте сюда скриншоты игрового процесса._
 
-![image](https://github.com/user-attachments/assets/f63ca99b-69c6-4a74-8e8c-72068f8c9671)
+![image](https://github.com/user-attachments/assets/a758f117-bdc3-4e5e-b9d6-4a5158f0e344)
+
 
 ## Зависимости
 
