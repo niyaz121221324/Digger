@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digger", "Digger.csproj", "{E6BC04F1-D7E9-4870-BAA6-F01C59F9FF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6BC04F1-D7E9-4870-BAA6-F01C59F9FF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BC04F1-D7E9-4870-BAA6-F01C59F9FF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BC04F1-D7E9-4870-BAA6-F01C59F9FF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BC04F1-D7E9-4870-BAA6-F01C59F9FF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0378E7DA-4DAC-46CF-A1CB-5E205C257714}
+	EndGlobalSection
+EndGlobal
